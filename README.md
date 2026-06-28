@@ -4,3 +4,4 @@
 3.Fix login bug
 4.Add dark mode
 5.Update README
+6.Remove unused code
