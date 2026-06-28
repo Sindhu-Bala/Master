@@ -6,4 +6,5 @@
 5.Update README
 6.Remove unused code
 7.Git asked for last 10 commits
-8. Enhancing using prompts
+8.Enhancing using prompts
+9.Welcome to Git should be the first message 
